@@ -3,7 +3,7 @@
     "description": "SenalBOT  - Makes it easy and fun to use Whatsapp.",
     "logo": "https://telegra.ph/file/f2be313fe820b56b47748.png",
     "keywords": ["whatsapp", "userbot", "Senal", "bot", "ai" , "MD" ],
-    "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
+    "repository": "https://https://github.com/seneLK/SENAL-MD",
     "website":   "https://aquabot.ga/",
     "success_url": "https://aquabot.ga",
     "stack": "container",
@@ -37,7 +37,7 @@
             "required": true
              },
             "OWN_NAME": {
-            "description": "Mr Senal",
+            "description": "Mr Dalabu",
             "value": "" ,
             "required": true
              },
